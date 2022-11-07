@@ -1,4 +1,4 @@
-import 'package:coctails_newyear/helpers/colors.dart';
+import '../helpers/colors.dart';
 import 'package:flutter/material.dart';
 
 class Coctail extends StatefulWidget {
@@ -13,9 +13,9 @@ class _CoctailState extends State<Coctail> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        backgroundColor: Color.fromARGB(255, 218, 162, 181),
+        backgroundColor: pinkMain,
         body: Container(
-          padding: EdgeInsets.all(10),
+          padding: const EdgeInsets.all(10),
           width: MediaQuery.of(context).size.width,
           height: MediaQuery.of(context).size.height,
           child: Column(
@@ -33,7 +33,7 @@ class _CoctailState extends State<Coctail> {
                         fontFamily: "Pacifico",
                         fontSize: 40,
                         fontWeight: FontWeight.normal)),
-                Center(
+                const Center(
                     child: Image(
                   image: AssetImage("assets/images/party.png"),
                 )),
@@ -41,11 +41,9 @@ class _CoctailState extends State<Coctail> {
                     style: ButtonStyle(
                       backgroundColor:
                           MaterialStatePropertyAll<Color>(blueBackground),
-                      shadowColor: MaterialStatePropertyAll<Color>(
-                          Color.fromARGB(255, 218, 162, 181)),
+                      shadowColor: MaterialStatePropertyAll<Color>(pinkMain),
                     ),
                     onPressed: () {
-                      // функция
                       Navigator.pushNamed(context, '/recipe');
                     },
                     child: const Text(
@@ -55,8 +53,7 @@ class _CoctailState extends State<Coctail> {
                           fontFamily: "Exo2",
                           fontSize: 20,
                           fontWeight: FontWeight.normal),
-                    )
-                    // style: Theme.of(context).textTheme.bodyText2),
+                    ),
                     ),
               ]),
         ),
