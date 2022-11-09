@@ -31,7 +31,7 @@ class RecipePage extends StatelessWidget {
             children: [
               //Image:
               SizedBox(
-                width: double.infinity,
+                //width: double.infinity,
                 height: 300,
                 child: Image.asset(recipe.image),
               ),
