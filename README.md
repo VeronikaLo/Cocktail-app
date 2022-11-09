@@ -1,16 +1,15 @@
 # coctail
 
-A new Flutter project.
+A project from Hackerthone ITgirl.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/84905256/200692457-c156be64-d5a7-48fb-b851-002b54d51cbd.png" width="20%" height="20%">  <img src="https://user-images.githubusercontent.com/84905256/200689924-8d79c842-dfc6-4615-a5c8-d89dcee41296.png" width="20%" height="20%">  <img src="https://user-images.githubusercontent.com/84905256/200689999-e5ac8198-379e-444b-a13f-d3611c657ad6.png" width="20%" height="20%">  <img src="https://user-images.githubusercontent.com/84905256/200690071-3ae818fb-4bf5-4ad5-a700-4f0981252599.png" width="20%" height="20%">  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
