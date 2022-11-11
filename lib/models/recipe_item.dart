@@ -168,4 +168,30 @@ Recipe(
     ],
   ),  
   
+Recipe(
+    id: 12,
+    title: "Flaming Lamborghini",
+    description: "Этот коктейль точно удивит вас своим изысканным вкусом",
+    image: "assets/images/flaming.jpg",
+    ingredients: [
+      "Кофейный ликёр/ Ром - 30 мл",
+      "Sambuca - 30 мл",
+      "Blue Curacao - 30 мл",
+      "Baileys - 30 мл",
+    ],
+  ),
+
+Recipe(
+    id: 13,
+    title: "Gimlet",
+    description: "Необыкновенно свежий и бодрящий напиток",
+    image: "assets/images/gimlet.jpg",
+    ingredients: [
+      "Gin - 80 мл",
+      "Сок лайма - 20мл",
+      "Сахарный сироп - 20мл",
+      "Кусочки лайма для украшения",
+    ],
+  ),
+
 ];
