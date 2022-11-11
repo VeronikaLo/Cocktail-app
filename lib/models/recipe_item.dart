@@ -171,7 +171,7 @@ Recipe(
 Recipe(
     id: 12,
     title: "Flaming Lamborghini",
-    description: "Этот коктейль точно удивит вас своим изысканным вкусом",
+    description: "Этот коктейль точно удивит вас своим изысканным вкусом и эффектной подачей",
     image: "assets/images/flaming.jpg",
     ingredients: [
       "Кофейный ликёр/ Ром - 30 мл",
@@ -191,6 +191,19 @@ Recipe(
       "Сок лайма - 20мл",
       "Сахарный сироп - 20мл",
       "Кусочки лайма для украшения",
+    ],
+  ),
+
+Recipe(
+    id: 14,
+    title: "Salted Toffee Martini",
+    description: "Этот коктейль приятно удивит необычной ноткой солёного шоколада",
+    image: "assets/images/toffee.jpg",
+    ingredients: [
+      "Gin - 50 мл",
+      "Шоколадный ликёр – 30 мл",
+      "Amaretto - 20 мл",
+      "Солёный шоколад, орехи для украшения",
     ],
   ),
 
