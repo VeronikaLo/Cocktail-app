@@ -1,6 +1,6 @@
-# coctail
+# My Cocktail
 
-A project from Hackerthone ITgirl.
+A project from Hackerthone ITgirls.
 
 ## Getting Started
 
