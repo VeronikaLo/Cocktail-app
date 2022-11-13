@@ -8,7 +8,7 @@ A project from Hackerthone ITgirls.
 
 
 
-![cocktail-min](https://user-images.githubusercontent.com/.png)
+
 
 
 
